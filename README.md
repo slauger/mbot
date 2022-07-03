@@ -1,5 +1,7 @@
 # mBot
 
+Anleitung siehe [hier](mBot-V1.1.pdf).
+
 ## Applikationen
 
 ### Makeblock
