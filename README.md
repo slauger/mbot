@@ -38,3 +38,7 @@ Anleitung siehe [hier](mBot-V1.1.pdf).
 - iOS: https://apps.apple.com/de/app/mblock-learn-coding/id1367117202
 - Android: https://play.google.com/store/apps/details?id=com.makeblock.mblock&hl=de&gl=US
 - Windows, Linux, Mac: https://mblock.makeblock.com/en-us/download/
+
+## Customizing
+
+- http://cdnlab.makeblock.com/mBot_emotion_card.pdf
