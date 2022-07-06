@@ -39,10 +39,10 @@ Anleitung siehe [hier](mBot-V1.1.pdf).
 - Android: https://play.google.com/store/apps/details?id=com.makeblock.mblock&hl=de&gl=US
 - Windows, Linux, Mac: https://mblock.makeblock.com/en-us/download/
 
-### Arduino IDE
+## Program mBot with Arduino IDE
 
-- https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-with-Arduino-IDE
+- Anleitung: https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-with-Arduino-IDE
 
 ## Customizing
 
-- http://cdnlab.makeblock.com/mBot_emotion_card.pdf
+- Emotion Cards: http://cdnlab.makeblock.com/mBot_emotion_card.pdf
