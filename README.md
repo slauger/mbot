@@ -45,4 +45,4 @@ Anleitung siehe [hier](mBot-V1.1.pdf).
 
 ## Customizing
 
-- http://cdnlab.makeblock.com/mBot_emotion_card.pdf
+- Emotion Cards: http://cdnlab.makeblock.com/mBot_emotion_card.pdf
